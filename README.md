@@ -10,9 +10,7 @@
 
 --- 
 프로젝트 기간 : 2022.02 ~ 2022.11
---- 
-### Notion <br>
-https://www.notion.so/3c6b2fb889a54411806856605eba74de?pvs=4
+---
 
 ### 🔗 발표 및 데모 영상 <br>
 https://www.youtube.com/watch?v=i4_QXwHHD_s
